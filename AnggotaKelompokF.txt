@@ -1,0 +1,7 @@
+Khal - Membangun Dashboard
+Naufal - Memperbarui Sistem Autentekasi Login
+Ardi - Membuat Notifikasi Berkala
+Thoriq - Meningkatkan Kecepatan Loading Dashboard
+Benedict - Memperbaiki Fitur Submit File Tugas
+Birang - Knowledge Acquisition
+Rinda - Memperbaiki Sistem Dashboard
